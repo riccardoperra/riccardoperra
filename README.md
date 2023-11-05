@@ -8,7 +8,7 @@ I'm Riccardo, a software developer based in Cagliari, Italy.
 - I 🩷 TypeScript and it's type system.
 - I'm a [Solid.js](https://github.com/solidjs/solid) enthusiast.
 - When I'm free I usually contribute to open source in my own and someone else projects. Sometimes I take part in competitions 😊
-- I'm particularly interested in web animations and editor-like web interfaces.
+- I'm particularly interested in web animations and building editor-like web applications.
 
 ### 💻 Top Repositories
 
