@@ -4,10 +4,11 @@ I'm Riccardo, a software developer based in Cagliari, Italy.
 
 ### About me
 
-- I'm working mostly with Angular, RxJS and Java Spring Boot.
+- At work, I'm currently working with Angular, RxJS and Java Spring Boot. 
 - I 🩷 TypeScript and it's type system.
 - I'm a [Solid.js](https://github.com/solidjs/solid) enthusiast
-- When I'm free I usually contribute to open source..and partecipate in some competitions 😊
+- When I'm free I usually contribute to open source in my own and other projects..and I partecipate in some competitions too 😊
+- I'm particularly interested in web animations and editor-like web interfaces
 
 ## 💻 Top Repositories
 
