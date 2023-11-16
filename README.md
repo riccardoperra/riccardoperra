@@ -23,4 +23,4 @@ I'm Riccardo, a software developer based in Cagliari, Italy.
 - [4th Europe/7th Global Leaderboard - 2021 Toptal JavaScript Speedcoding Challenge](https://speedcoding.toptal.com/leaderboard?ch=toptal-js-2021&country=all)
 - [1st - 2022 Collision Toronto - Toptal JavaScript Speedcoding Challenge](https://x.com/toptal/status/1540323933412548608?s=20)
 - [1st - SolidJS Hackathon 2022](https://hack.solidjs.com/prizes) - Best Application Award winner with [CodeImage](https://github.com/riccardoperra/codeimage)
-- [1st - 2023 Hanko.io Hackathon](https://hanko.io) - Winner with [SpecFlow](https://github.com/riccardoperra/specflow)
+- [1st - 2023 Hanko.io Hackathon](https://www.hanko.io/blog/the-hanko-hackathon) - Winner with [SpecFlow](https://github.com/riccardoperra/specflow)
