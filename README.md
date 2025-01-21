@@ -6,7 +6,7 @@ I'm Riccardo, a software developer based in Cagliari 🏝️, Italy.
 
 - At work, I build web applications and accessible design systems in typescript / angular
 
-- Working on [codeimage.dev](codeimage.dev) and some editor related stuffs 🚀
+- Working on [codeimage.dev](https://app.codeimage.dev) and some editor related stuffs 🚀
 
 - I mostly use [solid-js](https://github.com/solidjs/solid) for my own projects
 
