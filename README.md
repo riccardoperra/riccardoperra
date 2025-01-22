@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Riccardo, a software developer based in Cagliari 🏝️, Italy.
 
