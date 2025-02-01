@@ -10,6 +10,8 @@ I'm Riccardo, a software developer based in Cagliari 🏝️, Italy.
 
 - I mostly use [solid-js](https://github.com/solidjs/solid) for my own projects
 
+- Maintainer of [@tanstack/table](https://github.com/TanStack/table) (mainly Angular adapter) 
+
 ### 💻 My works
 
 [![CodeImage card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/codeimage)
