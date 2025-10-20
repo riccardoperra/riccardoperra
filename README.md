@@ -15,9 +15,9 @@ I'm Riccardo, a software developer based in Cagliari 🏝️, Italy.
 ### 💻 My works
 
 [![CodeImage card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/codeimage)
-[![Better Comments for GitHub card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/codeimage)
+[![Better Comments for GitHub card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/better-comments-for-github)
 [![Solid-codemirror card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/solid-codemirror)
-[![statebuilder card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/solid-codemirror)
+[![statebuilder card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/statebuilder)
 
 ### 🚀 Stats
 
