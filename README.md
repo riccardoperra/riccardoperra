@@ -1,27 +1,31 @@
-Hello there 👋
+#### Hello there 👋
 
-Software Developer [@simaggioli.it](https://simaggioli.it).
+Software Developer @simaggioli.it
 
-- 💼 At work, I build document editing platforms powered by ProseMirror, accessible design systems and application infrastructure tooling
+- 💼 At work, I build document editing platforms powered by ProseMirror, accessible design systems and frontend tooling
 - 🚀 Working on [codeimage.dev](https://app.codeimage.dev) and some editor related stuffs 🚀
 - ⚙️ I use: `solid-js`, `angular`, `react`, `prosemirror`, `vite`
 - 🌍 Maintainer of [@tanstack/table](https://github.com/TanStack/table) (mainly Angular adapter) 
 
 ### 💻 Open source stuffs
 
-[![CodeImage card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=dark&hide_border=true&border_radius=18&show=prs_authored,prs_comments,prs_reviewed,issues_commented)](https://github.com/riccardoperra/codeimage)
-[![tanstack-table stats](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=tanstack/table&show_owner=true&show_icons=true&theme=dark&hide_border=true&border_radius=24&show=prs_authored,prs_comments,prs_reviewed,issues_commented)](https://github.com/riccardoperra/vite-import-maps)
+<a href="https://github.com/riccardoperra/codeimage">
+ <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=18&show=prs_authored,prs_comments,prs_reviewed,issues_commented"/>
+</a>
+<a href="https://github.com/tanstack/table">
+ <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=tanstack/table&show_owner=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=24&show=prs_authored,prs_comments,prs_reviewed,issues_commented">
+</a>
+
+[![Better Comments for GitHub card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/better-comments-for-github)
+[![Solid-codemirror card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/solid-codemirror)
+[![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/vite-import-maps)
+[![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/statebuilder)
 
 ---
 
-[![Better Comments for GitHub card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/better-comments-for-github)
-[![Solid-codemirror card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/solid-codemirror)
-[![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/vite-import-maps)
-[![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/statebuilder)
+<img width="600px" style="float:right" src="https://github-stats-extended.vercel.app/api?username=riccardoperra&show_icons=true&theme=github_dark&hide_border=true&border_radius=24">
 
 ---
-
-<img src="https://github-stats-extended.vercel.app/api?username=riccardoperra&show_icons=true&theme=swift&hide_border=true&border_radius=24">
 
 ### 🏆 Some awards
 - [1st - 2023 Hanko.io Hackathon](https://www.hanko.io/blog/the-hanko-hackathon) - Winner with [SpecFlow](https://github.com/riccardoperra/specflow)
