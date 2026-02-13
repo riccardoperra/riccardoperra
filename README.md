@@ -1,13 +1,13 @@
-#### Hello there 👋
+### Hello there 👋
 
 Software Developer based in Cagliari 🏝️, Italy
 
-- 💼 At work, I build document editing platforms powered by ProseMirror, accessible design systems and frontend tooling
-- ⚙️ Maintainer of [@tanstack/table](https://github.com/TanStack/table) (mainly Angular adapter)  
+- 💼 At work I build document editing platforms powered by ProseMirror, accessible design systems and frontend tooling
+- ⚙️ Maintainer of [@tanstack/table](https://github.com/TanStack/table)  
 - 🚀 Built [codeimage.dev](https://app.codeimage.dev) and some prosemirror editor related stuffs 🚀
 - 👨‍💻 I use: `angular`, `solid-js`, `react`, `prosemirror`, `vite`
 
-### 💻 Open source stuffs
+#### O P E N S O U R C E
 
 <a href="https://github.com/riccardoperra/codeimage">
  <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=18&show=prs_authored,prs_comments,prs_reviewed,issues_commented"/>
@@ -23,11 +23,7 @@ Software Developer based in Cagliari 🏝️, Italy
 
 ---
 
-<img width="600px" style="float:right" src="https://github-stats-extended.vercel.app/api?username=riccardoperra&show_icons=true&theme=github_dark&hide_border=true&border_radius=24">
-
----
-
-### 🏆 Some awards
+#### A W A R D S
 - [1st - 2023 Hanko.io Hackathon](https://www.hanko.io/blog/the-hanko-hackathon) - Winner with [SpecFlow](https://github.com/riccardoperra/specflow)
 - [1st - SolidJS Hackathon 2022](https://hack.solidjs.com/prizes) - Best Application Award winner with [CodeImage](https://github.com/riccardoperra/codeimage)
 - [1st - 2022 Collision Toronto - Toptal JavaScript Speedcoding Challenge](https://x.com/toptal/status/1540323933412548608?s=20)
