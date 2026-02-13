@@ -1,11 +1,11 @@
 #### Hello there 👋
 
-Software Developer @simaggioli.it
+Software Developer based in Cagliari 🏝️, Italy
 
 - 💼 At work, I build document editing platforms powered by ProseMirror, accessible design systems and frontend tooling
-- 🚀 Working on [codeimage.dev](https://app.codeimage.dev) and some editor related stuffs 🚀
-- ⚙️ I use: `solid-js`, `angular`, `react`, `prosemirror`, `vite`
-- 🌍 Maintainer of [@tanstack/table](https://github.com/TanStack/table) (mainly Angular adapter) 
+- ⚙️ Maintainer of [@tanstack/table](https://github.com/TanStack/table) (mainly Angular adapter)  
+- 🚀 Built [codeimage.dev](https://app.codeimage.dev) and some prosemirror editor related stuffs 🚀
+- 👨‍💻 I use: `angular`, `solid-js`, `react`, `prosemirror`, `vite`
 
 ### 💻 Open source stuffs
 
