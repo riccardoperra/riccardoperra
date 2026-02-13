@@ -7,19 +7,19 @@ Software Developer based in Cagliari 🏝️, Italy
 - 🚀 Built [codeimage.dev](https://app.codeimage.dev) and some prosemirror editor related stuffs 🚀
 - 👨‍💻 I use: `angular`, `solid-js`, `react`, `prosemirror`, `vite`
 
-#### O P E N S O U R C E
+#### O P E N &nbsp; S O U R C E
 
 <a href="https://github.com/riccardoperra/codeimage">
- <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=18&show=prs_authored,prs_comments,prs_reviewed,issues_commented"/>
+ <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16&show=prs_authored,prs_comments,prs_reviewed,issues_commented"/>
 </a>
 <a href="https://github.com/tanstack/table">
- <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=tanstack/table&show_owner=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=24&show=prs_authored,prs_comments,prs_reviewed,issues_commented">
+ <img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=tanstack/table&show_owner=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16&show=prs_authored,prs_comments,prs_reviewed,issues_commented">
 </a>
 
-[![Better Comments for GitHub card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/better-comments-for-github)
-[![Solid-codemirror card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/solid-codemirror)
-[![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/vite-import-maps)
-[![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=github_dark&hide_border=true&border_radius=24)](https://github.com/riccardoperra/statebuilder)
+[![Better Comments for GitHub card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=better-comments-for-github&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/better-comments-for-github)
+[![Solid-codemirror card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/solid-codemirror)
+[![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/vite-import-maps)
+[![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/statebuilder)
 
 ---
 
