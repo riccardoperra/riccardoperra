@@ -2,9 +2,9 @@
 
 Software Developer based in Cagliari 🏝️, Italy
 
-- 💼 At work I build accessible design systems, frontend tooling and collaborative document editing platforms powered by [ProseMirror](https://prosemirror.net)
-- ⚙️ Maintainer of [@tanstack/table](https://github.com/TanStack/table)  
-- 🚀 Built [codeimage.dev](https://app.codeimage.dev) and some ProseMirror editor related stuffs 🚀
+- 💼 Work on enterprise software application, accessible design systems, frontend tooling and collaborative document editing platforms powered by [ProseMirror](https://prosemirror.net)
+- ⚙️ Contributor of [@tanstack](https://github.com/TanStack) org and maintainer of [@tanstack/table](https://github.com/TanStack/table)  
+- 🚀 Built [codeimage.dev](https://codeimage.dev) and some ProseMirror editor related stuffs 🚀
 - 👨‍💻 I use: `typescript`, `angular`, `solidjs`, `react`, `prosemirror`, `vite`
 
 #### O P E N &nbsp; S O U R C E
