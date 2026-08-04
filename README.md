@@ -16,6 +16,10 @@ Software Developer based in Cagliari 🏝️, Italy
 [![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/vite-import-maps)
 [![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/statebuilder)
 
+#### P O S T S 
+
+- [Inside TanStack Table V9 Reactivity](https://tanstack.com/blog/tanstack-table-v9-reactivity)
+
 ---
 
 #### A W A R D S
