@@ -7,6 +7,10 @@ Software Developer based in Cagliari 🏝️, Italy
 - 🚀 Built [codeimage.dev](https://codeimage.dev) and some ProseMirror editor related stuffs 🚀
 - 👨‍💻 I use: `typescript`, `angular`, `solidjs`, `react`, `prosemirror`, `vite`
 
+#### P O S T S 
+
+- [Inside TanStack Table V9 Reactivity](https://tanstack.com/blog/tanstack-table-v9-reactivity)
+
 #### O P E N &nbsp; S O U R C E
 
 <a href="https://github.com/riccardoperra/codeimage"><img alt="codeimage card" width="400px" src="https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=codeimage&show_owner=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16&show=prs_authored,prs_comments,prs_reviewed,issues_commented"></a>
@@ -15,10 +19,6 @@ Software Developer based in Cagliari 🏝️, Italy
 [![Solid-codemirror card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=solid-codemirror&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/solid-codemirror)
 [![vite-import-maps card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=vite-import-maps&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/vite-import-maps)
 [![statebuilder card](https://github-stats-extended.vercel.app/api/pin/?username=riccardoperra&repo=statebuilder&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=16)](https://github.com/riccardoperra/statebuilder)
-
-#### P O S T S 
-
-- [Inside TanStack Table V9 Reactivity](https://tanstack.com/blog/tanstack-table-v9-reactivity)
 
 ---
 
